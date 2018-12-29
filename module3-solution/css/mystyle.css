@@ -1,0 +1,10 @@
+.row > div {
+    background-color: greenyellow;
+    border: 2px solid rgb(192, 51, 235);
+    margin-right: 0px;
+}
+
+.row {
+    margin-bottom: 10px
+}
+
